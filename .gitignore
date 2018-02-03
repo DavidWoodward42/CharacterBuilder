@@ -10,3 +10,4 @@ logs
 /target
 tmp/
 *.eml
+.idea

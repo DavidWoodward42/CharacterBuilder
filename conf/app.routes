@@ -1,0 +1,2 @@
+# Here be routes
+GET       /hello-world                controllers.HelloWorldController.helloWorld
